@@ -8,7 +8,7 @@ Ejercicio 4 : Con lo aprendido hasta el momento, realiza un programa que de mane
 digito verificador de un rut con 8 digitos)
 **********************************
 """
-
+#el numero debe contener 8 digitos.
 
 # paso 1 Se lee el número de derecha a izquierda y este se multiplica con números secuencias desde 2 a 7 y
 # después se vuelven a repetir.
